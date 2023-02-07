@@ -9,3 +9,8 @@
 
 <p>Implementação do custom event emitter baseda no artigo: https://www.freecodecamp.org/news/how-to-code-your-own-event-emitter-in-node-js-a-step-by-step-guide-e13b7e7908e1</p>
 <p>by Rajesh Pillai: https://medium.com/@rajeshpillai</p>
+
+<hr>
+
+<p>Como o event loop funciona: https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810</p>
+<p>by Deepal Jayasekara</p>
